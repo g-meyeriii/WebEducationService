@@ -17,6 +17,6 @@ namespace WebEducationService.Models {
 
        //public virtual Instructor Instructor { get; set; }
 
-        public Class() { }
+        public Class() { } 
     }
 }
